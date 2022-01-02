@@ -6,7 +6,6 @@
  * the Apache License 2.0.  The full license can be found in the LICENSE file.
  *
  */
-#ifdef PSP_ENABLE_PYTHON
 
 #include <perspective/base.h>
 #include <perspective/binding.h>
@@ -151,4 +150,3 @@ namespace binding {
 } // namespace binding
 } // namespace perspective
 
-#endif
